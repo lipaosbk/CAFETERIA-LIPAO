@@ -27,7 +27,7 @@ Para visualizar o projeto, siga os passos abaixo:
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   [git clone https://github.com/lipaosbk/CAFETERIA-LIPAO.git](https://lipaosbk.github.io/CAFETERIA-LIPAO/)
+   https://lipaosbk.github.io/CAFETERIA-LIPAO/
 
   ## 📬 Contato
 Se você é **recrutador(a)** ou deseja conversar sobre oportunidades, aqui estão meus canais:
